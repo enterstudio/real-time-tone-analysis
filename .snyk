@@ -1,0 +1,21 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.13.3
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  'npm:hoek:20180212':
+    - watson-developer-cloud > solr-client > request > hawk > hoek:
+        patched: '2019-04-29T22:49:20.279Z'
+    - watson-developer-cloud > solr-client > request > hawk > sntp > hoek:
+        patched: '2019-04-29T22:49:20.279Z'
+    - watson-developer-cloud > solr-client > request > hawk > boom > hoek:
+        patched: '2019-04-29T22:49:20.279Z'
+    - watson-developer-cloud > solr-client > request > hawk > cryptiles > boom > hoek:
+        patched: '2019-04-29T22:49:20.279Z'
+  'npm:minimatch:20160620':
+    - gulp > vinyl-fs > glob-stream > minimatch:
+        patched: '2019-04-29T22:49:20.279Z'
+    - gulp > vinyl-fs > glob-watcher > gaze > globule > minimatch:
+        patched: '2019-04-29T22:49:20.279Z'
+    - gulp > vinyl-fs > glob-watcher > gaze > globule > glob > minimatch:
+        patched: '2019-04-29T22:49:20.279Z'
