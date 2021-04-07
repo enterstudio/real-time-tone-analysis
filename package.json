@@ -12,7 +12,7 @@
 		"express": "4.13.x",
     "body-parser": "1.14.x",
     "watson-developer-cloud": "1.8.x",
-		"cfenv": "1.0.x",
+		"cfenv": "1.2.4",
     "bower": "1.6.x",
     "gulp": "3.5.x",
     "cf-deployment-tracker-client": "0.0.x"
