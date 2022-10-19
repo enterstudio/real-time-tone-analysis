@@ -13,8 +13,8 @@
     "body-parser": "1.14.x",
     "watson-developer-cloud": "1.8.x",
 		"cfenv": "1.0.x",
-    "bower": "1.6.x",
-    "gulp": "3.5.x",
+    "bower": "1.7.5",
+    "gulp": "4.0.0",
     "cf-deployment-tracker-client": "0.0.x"
 	},
   "devDependencies": {
