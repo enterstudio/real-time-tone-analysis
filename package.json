@@ -14,7 +14,7 @@
     "watson-developer-cloud": "1.8.x",
 		"cfenv": "1.0.x",
     "bower": "1.6.x",
-    "gulp": "3.5.x",
+    "gulp": "3.8.11",
     "cf-deployment-tracker-client": "0.0.x"
 	},
   "devDependencies": {
