@@ -11,7 +11,7 @@
 	"dependencies": {
 		"express": "4.13.x",
     "body-parser": "1.14.x",
-    "watson-developer-cloud": "1.8.x",
+    "watson-developer-cloud": "4.0.1",
 		"cfenv": "1.0.x",
     "bower": "1.6.x",
     "gulp": "3.5.x",
